@@ -1,0 +1,6 @@
+.app {
+  box-sizing: border-box;
+  display: flex;
+  border: solid 5px whites;
+  gap: 15px;
+}

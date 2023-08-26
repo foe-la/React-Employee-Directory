@@ -1,0 +1,27 @@
+.employeepage {
+    flex: 1;
+    border: solid 5px red;
+    display: flex;
+    flex-direction: column;
+    padding: 25px;
+}
+
+.employeepage div {
+    border-bottom: solid 1px rgb(204, 198, 198);
+    border-left: solid 1px rgb(204, 198, 198);
+    border-right: solid 1px rgb(204, 198, 198);
+}
+.employeeOverview {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+    gap: 25px;
+}
+
+.profilePic {
+    background-color: aqua;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
